@@ -4,7 +4,6 @@
   "version": "7.3.1",
   "unpkg": "dist/mobx-react-router.js",
   "types": "./type/index.d.ts",
-  "module": "./type/index.js",
   "scripts": {
     "lint": "eslint src/*.ts",
     "test": "jest",
