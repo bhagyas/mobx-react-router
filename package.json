@@ -3,7 +3,7 @@
   "private": false,
   "description": "Keep your MobX state in sync with react-router",
   "main": "./src/index.ts",
-  "version": "7.4.0",
+  "version": "7.5.0",
   "type": "module",
   "scripts": {
     "lint": "eslint src/*.ts",
