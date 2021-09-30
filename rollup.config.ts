@@ -38,6 +38,11 @@ const option: RollupOptions = {
   input: 'src/index.ts',
   output: [
     {
+      file: 'dist/index.js',
+      format: 'esm',
+      sourcemap: true,
+    },
+    {
       file: 'dist/mobx-react-router.js',
       format: 'umd',
       preferConst: true,
