@@ -1,5 +1,6 @@
 {
-  "name": "bhagyas/mobx-react-router",
+  "name": "@bhagyas/mobx-react-router",
+  "private": false,
   "description": "Keep your MobX state in sync with react-router",
   "main": "./src/index.ts",
   "version": "7.4.0",
