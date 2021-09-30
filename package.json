@@ -3,6 +3,7 @@
   "private": false,
   "description": "Keep your MobX state in sync with react-router",
   "main": "./src/index.ts",
+  "module": "./dist/index.js",
   "version": "7.5.0",
   "type": "module",
   "scripts": {
